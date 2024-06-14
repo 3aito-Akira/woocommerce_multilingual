@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/*
+Theme Name: Woocommerce Learning
+Description: これはWoocommerce Learningテーマのサンプルです。
+Author: Akira
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+div {
+    color: #666;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 20px;
+    border-radius: 4px;
+}
+
+p {
+    color: #666;
+    padding: 20px;
+    text-align: center;
+}
